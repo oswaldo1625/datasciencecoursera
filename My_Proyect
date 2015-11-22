@@ -1,4 +1,0 @@
-msg <- "hello world"
-print(msg)
-
-## This is a markdown file
